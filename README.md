@@ -85,7 +85,7 @@ Run in the console of your Raspberry Pi:
 
 ```bash
 sudo apt update
-sudo apt install cmake
+sudo apt install cmake libraspberrypi-dev raspberrypi-kernel-headers
 cd ~
 git clone https://github.com/jokubasver/Anycubic-Kobra-Go-Neo-LCD-Driver.git
 cd Anycubic-Kobra-Go-Neo-LCD-Driver
